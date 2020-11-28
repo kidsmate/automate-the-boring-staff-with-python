@@ -1,0 +1,5 @@
+math operators in python, from highest to lowest precedence
+**: means power, example: 2**3=8, the type of return number is: int or float;
+ %: means get reminder, example: 10/3=1, the type of return number is: int or float;
+//: means integer division/ floored quotient, example :10/3=3;
+ /: means division, example: 10/4=2.5
